@@ -1,0 +1,5 @@
+torch>=2.2
+numpy
+num2words
+pydantic
+huggingface_hub

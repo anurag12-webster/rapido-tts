@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.wav
+*.pt
+.venv/
+assets/*.template.md
+assets/MODEL_CARD.md
